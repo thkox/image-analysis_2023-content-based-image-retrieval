@@ -15,9 +15,8 @@ This project is a team assignment for the "Image Analysis" course, offered in th
 5. **Hypergraph-Based Similarity Computation**: Use the constructed hypergraph to compute similarities between images, which serves as the basis for retrieving similar images to a given target image.
 
 ## Course Information
-
-- **Institution:** University of Piraeus
-- **Department:** Department of Informatics
+- **Institution:** [University of Piraeus](https://www.unipi.gr/en/)
+- **Department:** [Department of Informatics](https://cs.unipi.gr/en/)
 - **Course:** Image Analysis (2023)
 - **Semester:** 7th
 
